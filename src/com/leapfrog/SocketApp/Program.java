@@ -19,7 +19,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author aruun
+ * @author arun poudel
  */
 public class Program {
 
